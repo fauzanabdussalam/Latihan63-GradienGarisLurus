@@ -7,7 +7,12 @@ package pbo10k.pkg10119901.latihan63.gradiengarislurus;
 
 /**
  *
- * @author User
+ * @author
+ * NAMA                 : Fauzan Muhammad Abdussalam
+ * KELAS                : IF-10K
+ * NIM                  : 10119901
+ * Deskripsi Program    : Menghitung Gradien Garis Lurus
+ *
  */
 public class PBO10K10119901Latihan63GradienGarisLurus {
 
